@@ -1,0 +1,22 @@
+# Configurações de Ambiente (SEGURANÇA)
+_app/env.js
+.env
+.env.*
+
+# Logs de erro e sistema
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Pastas de sistema e editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Se você usar pacotes futuramente
+node_modules/
+
+# Opcional: Se você não quiser subir as imagens do site (mantenha se quiser o projeto completo no GitHub)
+# media/
