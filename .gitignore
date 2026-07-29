@@ -17,6 +17,7 @@ Thumbs.db
 
 # Se você usar pacotes futuramente
 node_modules/
+dist/
 
 # Opcional: Se você não quiser subir as imagens do site (mantenha se quiser o projeto completo no GitHub)
 # media/
